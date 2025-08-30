@@ -1,0 +1,49 @@
+{
+  "name": "edgeguard",
+  "version": "0.1.0",
+  "description": "A privacy-first, edge-native web framework.",
+  "author": {
+    "name": "Muhammad Imran",
+    "url": "https://github.com/Imran-Ashiq"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/imran-io/edgeguard#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imran-io/edgeguard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imran-io/edgeguard/issues"
+  },
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "vitest",
+    "build": "tsup src/index.ts --format cjs,esm --dts --clean",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "edge",
+    "serverless",
+    "privacy",
+    "secure",
+    "framework",
+    "typescript",
+    "cloudflare",
+    "workers",
+    "vercel",
+    "deno"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "prettier": "^3.3.2",
+    "tsup": "^8.1.0",
+    "typescript": "^5.4.5",
+    "vitest": "^1.6.0"
+  }
+}
