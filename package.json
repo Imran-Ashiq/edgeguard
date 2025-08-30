@@ -7,13 +7,13 @@
     "url": "https://github.com/Imran-Ashiq"
   },
   "license": "MIT",
-  "homepage": "https://github.com/imran-io/edgeguard#readme",
+  "homepage": "https://github.com/Imran-Ashiq/edgeguard#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imran-io/edgeguard.git"
+    "url": "git+https://github.com/Imran-Ashiq/edgeguard.git"
   },
   "bugs": {
-    "url": "https://github.com/imran-io/edgeguard/issues"
+    "url": "https://github.com/Imran-Ashiq/edgeguard/issues"
   },
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
