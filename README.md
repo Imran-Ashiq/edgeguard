@@ -3,8 +3,8 @@
   <p><strong>A privacy-first, edge-native web framework.</strong></p>
   <p>
     <a href="https://www.npmjs.com/package/edgeguard"><img src="https://img.shields.io/npm/v/edgeguard.svg?style=flat-square" alt="NPM Version"></a>
-    <a href="#"><img src="https://img.shields.io/github/actions/workflow/status/Imran-Ashiq/edgeguard/ci.yml?style=flat-square" alt="Build Status"></a>
-    <a href="/LICENSE"><img src="https://img.shields.io/npm/l/edgeguard.svg?style=flat-square" alt="License"></a>
+    <a href="https://github.com/Imran-Ashiq/edgeguard/actions/workflows/ci.yml"><img src="https://github.com/Imran-Ashiq/edgeguard/actions/workflows/ci.yml/badge.svg" alt="Build Status"></a>
+    <a href="https://github.com/Imran-Ashiq/edgeguard/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/edgeguard.svg?style=flat-square" alt="License"></a>
   </p>
 </div>
 
